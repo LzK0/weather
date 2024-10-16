@@ -19,7 +19,7 @@ Este projeto foi estilizado usando CSS3 puro para garantir responsividade e um d
 
 ## Link da Aplicação
 
-Clique no link para ver a aplicação: [Weather App](#https://fluffy-cassata-d81882.netlify.app)
+Clique no link para ver a aplicação: [Weather App](https://fluffy-cassata-d81882.netlify.app)
 
 <hr>
 
@@ -35,5 +35,5 @@ This project is styled using pure CSS3 to ensure responsiveness and a user-frien
 
 ## Application Link
 
-Click the link to see the application: [Weather App](#https://fluffy-cassata-d81882.netlify.app)
+Click the link to see the application: [Weather App](https://fluffy-cassata-d81882.netlify.app)
 
