@@ -15,6 +15,8 @@ Ao trabalhar com essa API, aperfeiçoei meu entendimento sobre chamadas de API, 
 
 Este projeto foi estilizado usando CSS3 puro para garantir responsividade e um design amigável. Todas as informações meteorológicas, como temperatura, umidade e previsão, são exibidas de forma limpa e intuitiva.
 
+<hr>
+
 ## Link da Aplicação
 
 Clique no link para ver a aplicação: [Weather App](#https://fluffy-cassata-d81882.netlify.app)
@@ -28,6 +30,8 @@ This project was created to practice my skills in HTML5, CSS3, and JavaScript. I
 By working with this API, I improved my understanding of API calls, asynchronous JavaScript (using `fetch` and `async/await`), and how to dynamically update the interface with real-time data.
 
 This project is styled using pure CSS3 to ensure responsiveness and a user-friendly design. All weather information, such as temperature, humidity, and forecast, is displayed in a clean and intuitive layout.
+
+<hr>
 
 ## Application Link
 
